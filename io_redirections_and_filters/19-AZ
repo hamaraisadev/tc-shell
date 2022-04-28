@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -i 's/A/Z/g; s/c/e/g' tmp
+cat \-i \'s\/A\/Z\/g\; s\/c\/e\/g\' tmp

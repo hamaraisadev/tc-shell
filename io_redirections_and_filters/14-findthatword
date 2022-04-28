@@ -1,2 +1,2 @@
 #!/bin/bash
-cat | /usr/sbin | */etc/passwd
+cat /etc/passwd | grip root

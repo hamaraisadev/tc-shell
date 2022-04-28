@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -i '/^C/c/d'
+echo tr -d C/c

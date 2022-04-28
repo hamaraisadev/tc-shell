@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /-i /'s//A//Z//g/ s//c//e//g/' tmp
+perl -pe 's/A/Z/g' | perl -pe 's/c/e/g'
